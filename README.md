@@ -5,7 +5,7 @@ The purpose of this analysis is 2-fold:
 1. The first is for management to understand the number of retiring employees by title.  This will help management see where upcoming gaps will be in their org's talents.
 2. The second is for management to determine who is eligible to participate in a mentorship program.  This will help management understand who they can mentor and grow in their organization as they prepare for the "silver tsunami".
 
-## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+## Results: 
 - The "silver tsunami" will be felt the most for *Senior Engineer* position.  These roles account for 36% (25,916) of the retiring titles.  This is followed closely by *Senior Staff* at 34% (24,926).
 
 ![image](https://user-images.githubusercontent.com/100737452/163726240-ce2978cc-2eac-4843-98f2-1cd6108bcae2.png)
